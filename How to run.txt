@@ -1,0 +1,7 @@
+-- Implementation of Roadmap Algorithm: Trapezoidal Decomposition --
+
+1. Download and extract Roadmap.rar
+2. Open command prompt and go to the directory containing the trapezoidal.py file (.../Roadmap Methods/)
+3. Run the trapezoidal.py (python trapezoidal.py)
+
+Then provide input as required.
